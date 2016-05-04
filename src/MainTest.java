@@ -8,7 +8,7 @@ public class MainTest {
 
 
     public static void main(String[] args)throws IOException{
-        String mPhoneNumber="13691378063";
+        String mPhoneNumber="13691378064";
         String mStamp="20160503220551";
         EncodeSHA256 encodeSHA256=new EncodeSHA256();
         //EncodeAES128 encodeAES128=new EncodeAES128();
